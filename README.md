@@ -1,17 +1,21 @@
-## git_first
+## 프로젝트 입문 과제_git 학습 
 
-git 명령어 공부중..
-원격 저장소 <-> 로컬 저장소 관계 개념 이해
-add, commit , push ,branch, checkout, etc..
+원격 저장소 <->  로컬 저장소 개념 이해
+git 명령어 학습
+commit, push, branch, pull-request, etc..
 
-#소스코드 작성 예시
-~~~ c++
+README.md 작성법
+~~~c++
+>>>>>>> develop
 #include<iostream>
 using namespace std;
 int main()
 {
-  cout<<"hello git!"<<'\n';
-  return 0;
-}
- ~~~
-[baekjoon](https://www.acmicpc.net/user/back4740)
+	cout<<"hello git!"<<'\n';
+	return 0;
+} 
+~~~
+
+[백준](https://www.acmicpc.net/user/back4740)
+---공부---
+
