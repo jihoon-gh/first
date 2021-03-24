@@ -3,7 +3,11 @@
 
 git 명령어 학습
 
-commit, push, branch, pull-request, etc..
+commit, push, branch, pull-request, etc...
+
+bracnh간 충돌 해결법
+
+--amend 사용법 및 쉘 명령어들도 공부
 
 README.md 작성법
 ~~~c++
