@@ -1,10 +1,10 @@
-### 프로젝트 입문 과제_git 학습 
+# 프로젝트 입문 과제_git 학습 
 
-원격 저장소 <->  로컬 저장소 개념 이해
+##원격 저장소 <->  로컬 저장소 개념 이해
 
-##git 명령어 학습
+###git 명령어 학습
 
-##commit, push, branch, pull-request, etc..
+####commit, push, branch, pull-request, etc..
 
 README.md 작성법
 ~~~c++
