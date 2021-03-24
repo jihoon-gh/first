@@ -28,9 +28,9 @@ git이란? : 버전 관리 시스템 (vcs)으로, 프로젝트 협업 관리 도
  * master 이외 branch에서 push - --set-upstream origin branch
 
 * 앞으로 해야할 부분들 
- * 쉘 명령어 학습(텍스트 편집기 등)
- * 개념 숙지
- * 실제적인 사용
+  * 쉘 명령어 학습(텍스트 편집기 등)
+  * 개념 숙지
+  * 실제적인 사용
 
 ~~~C++
 #include<iostream>
